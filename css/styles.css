@@ -1,0 +1,11 @@
+.progress {
+	margin: 10px 0;
+}
+
+.pbRes {
+	display: flex;
+}
+
+.pbRes p {
+	margin-right: 10px;
+}
